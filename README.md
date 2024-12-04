@@ -13,7 +13,7 @@ Bem-vindo ao repositório do projeto *Cats Odyssey*! Este é o trabalho final da
 - **Pedro Lucas**  
   - Realizou a revisão e correção do código, garantindo a qualidade e funcionamento perfeito.  
 
-- **Samir Ribeiro**  
+- **Samir Ribeiro Tomaz**  
   - Responsável pelo design visual e artístico, incluindo personagens, cenários e interface.  
 
 ---
